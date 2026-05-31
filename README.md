@@ -40,7 +40,7 @@ O design foi estruturado utilizando `StyleSheet` e sistema **Flexbox** para gara
 
 | Elemento                           | Hexadecimal | Cor |
 | :--------------------------------- | :---------- | :-- |
-| Botão Calcular (Azul)              | `#2196F3`   | 🔵  |
+| Botão Calcular (Azul)              | `#32A041`   | 🟢  |
 | Botão Reiniciar / Erros (Vermelho) | `#D32F2F`   | 🔴  |
 | Fundo Resultado (Cinza)            | `#f0f0f0`   | ⚪  |
 
@@ -54,18 +54,25 @@ npm install
 
 # 2. Iniciar o servidor de desenvolvimento
 npx expo start
+```
 
-📱 Demonstração em Vídeo
+---
+
+## 📱 Demonstração em Vídeo
 Confira o aplicativo em funcionamento:
 
-🎥 CLIQUE AQUI PARA VER O VÍDEO DO APP
+🎥 **[CLIQUE AQUI PARA VER O VÍDEO DO APP](https://youtu.be/h5S84p7Dt2U)**
 
-📚 Créditos
-Projeto acadêmico desenvolvido para a disciplina de Pós-Graduação,
-ministrada pelo professor Carlão (IFSP).
+---
 
-🙋‍♂️
+## 📚 Créditos
+
+Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento para Android 1 – D2DM2**,   
+ministrada pelo professor **Carlão (IFSP)**. 
+
+
+## 🙋‍♂️
+
 🔗 Conecte-se comigo
 
-LinkedIn - Márcio Adriano
-```
+[LinkedIn - Márcio Adriano](https://www.linkedin.com/in/mads1974/)
